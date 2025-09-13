@@ -63,17 +63,17 @@ jupyter notebook employee_sentiment_analysis.ipynb
 ### Top 3 Positive Employees (by monthly sentiment score)
 
 * **2010 Example:** 
-![Top 3 Positive Employees in 2010](./visualizations/top_3_employees_positive_sentiment_score_2010.png) 
+![Top 3 Positive Employees in 2010](./visualizations/top_positive_employees_2010.png) 
 * **2011 Example:** 
-![Top 3 Positive Employees in 2011](./visualizations/top_3_employees_positive_sentiment_score_2011.png) 
+![Top 3 Positive Employees in 2011](./visualizations/top_positive_employees_2011.png) 
 
 
 ### Top 3 Negative Employees
 
 * **2010 Example:** 
-![Top 3 Positive Employees in 2010](./visualizations/top_3_employees_negative_sentiment_score_2010.png) 
+![Top 3 Positive Employees in 2010](./visualizations/top_negative_employees_2010.png) 
 * **2011 Example:** 
-![Top 3 Positive Employees in 2011](./visualizations/top_3_employees_negative_sentiment_score_2011.png) 
+![Top 3 Positive Employees in 2011](./visualizations/top_negative_employees_2011.png) 
 
 
 ### Flight Risk Employees
@@ -102,9 +102,9 @@ Employees flagged as at-risk met the condition of **≥4 negative emails in any 
 ## Visuals
 
 * **Sentiment Distribution:** 
-![Sentiment Distribution](./visualizations/distribution_email_sentiment.png) 
+![Sentiment Distribution](./visualizations/sentiment_distribution.png) 
 * **Top 10 Frequent Senders:** 
-![Top 10 Frequent Senders](./visualizations/top_10_senders.png) 
+![Top 10 Frequent Senders](./visualizations/top_senders.png) 
 * **Predictive Model Performance:** 
 ![Predictive Model Performance](./visualizations/model_comparison.png) 
 
